@@ -1,0 +1,8 @@
+!*.cs
+!*.csproj
+!*.csproj.user
+!*.resx
+!*.config
+!*.settings
+!*.ico
+!*.exe
