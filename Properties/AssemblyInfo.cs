@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的常规信息通过下列属性集
 // 控制。更改这些属性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("ANSO_Hex2Bin")]
+[assembly: AssemblyTitle("Hex2Bin")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("深圳市拓安信仪表有限公司")]
-[assembly: AssemblyProduct("ANSO_Hex2Bin")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("Hex2Bin")]
 [assembly: AssemblyCopyright("Copyright © 皮皮华 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

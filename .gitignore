@@ -6,3 +6,5 @@
 !*.settings
 !*.ico
 !*.exe
+!*.sln
+!*.suo
